@@ -65,6 +65,9 @@ body{
 {
     cursor: pointer;
     border-radius: 4px;
+    width: 55px;
+    height: 18px;
+    border: none;
 }
 .login-table{
     margin-left: 57px;
@@ -77,6 +80,7 @@ body{
 .bodyleft
 {   
     margin-top: 25px;
+    margin-left: -65px;
     background-color:#fff;
     width: 500px;
     height: 450px;
